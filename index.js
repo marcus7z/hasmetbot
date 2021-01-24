@@ -11,4 +11,4 @@ fs.readdir("./events/", (err, files) => {
   });
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NjY2MDQ2NDAyOTI4ODM2NjU4.XhueDQ.wLtkQs_kCwxa9lWlLQQDx6oyh2Y);
